@@ -1,3 +1,7 @@
+
+# a project where i asked chatgpt to create me a cv with given instructions. 
+# 24.10.24
+
 from fpdf import FPDF
 
 class PDF(FPDF):
